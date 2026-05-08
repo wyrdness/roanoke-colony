@@ -1,520 +1,176 @@
-# Roanoke Colony (The Lost Colony)
+# Roanoke Colony
 
-> *"CROATOAN" — The only clue left behind*
+> The Roanoke Colony, known as 'The Lost Colony,' was an English settlement of approximately 115–121 colonists established on Roanoke Island (present-day North Carolina) in 1587. When Governor John White returned in August 1590, the settlement was found completely abandoned, with only the word 'CROATOAN' carved into a post.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-historical__mystery-orange)]()
-[![Category](https://img.shields.io/badge/category-HISTORICAL__MYSTERY-purple)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-historical-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `roanoke-colony` |
-| **Category** | HISTORICAL_MYSTERY |
-| **Classification** | Lost Settlement / Probable Integration |
-| **Established** | July 22, 1587 |
-| **Disappeared** | 1587-1590 |
-| **Location** | Roanoke Island, North Carolina |
-| **Colonists** | 115-117 (men, women, children) |
-| **Status** | Historical mystery with probable explanation |
+| **Category** | LOCATION |
+| **Subcategory** | Historical mystery / lost settlement |
+| **First recorded** | 1584-04-27 |
+| **Primary range** | Roanoke Island, present-day Dare County, North Carolina, United States |
+| **Status** | historical |
 
 ---
-
 ## Overview
 
-The Roanoke Colony, famously known as **"The Lost Colony,"** represents one of America's oldest and most intriguing historical mysteries. In 1587, 115-117 English colonists established a settlement on Roanoke Island in what is now North Carolina. When Governor John White returned from England in 1590 after a three-year delay, he found the settlement completely abandoned with no signs of struggle—only the word **"CROATOAN"** carved into a wooden post.
-
-**The Reality**: While this genuine historical mystery has captured imaginations for over 400 years, modern archaeological evidence, DNA studies, and historical research strongly suggest the colonists **survived by integrating with local Native American tribes**, particularly the Croatoan (Hatteras) Indians. This is not a paranormal event or unsolved disappearance—it's a story of survival, adaptation, and cultural integration.
-
-### Key Facts
-
-- **First recorded disappearance** of European colonists in the Americas
-- **Virginia Dare**, first English child born in America (August 18, 1587), was among the colonists
-- **"CROATOAN"** carving provided a clear clue to colonists' destination
-- **No distress signal** was left (colonists had agreed to carve a Maltese cross if in danger)
-- **Archaeological evidence** now supports integration with Native American communities
-- **Not paranormal**: Evidence points to mundane explanation—survival through cooperation
+The Roanoke Colony was the second English attempt to establish a permanent settlement in North America, established in 1587 on Roanoke Island in what is now Dare County, North Carolina. Governor John White led approximately 112–121 colonists, including women and children. His granddaughter Virginia Dare — born August 18, 1587 — was the first English child born in the Americas. White returned to England weeks after the colony's establishment to secure additional supplies, but was delayed for three years by the Anglo-Spanish War and the Spanish Armada crisis. When White finally returned in August 1590, he found the settlement fortified but completely abandoned, with no signs of struggle. The word 'CROATOAN' was carved into a post, and 'CRO' was inscribed into a nearby tree — consistent with a pre-arranged signal indicating the colonists had relocated to Croatoan Island (present-day Hatteras Island). White was unable to investigate further due to deteriorating weather and his ships' condition. The fate of the colonists has never been definitively established. Leading theories include voluntary relocation to Croatoan Island and assimilation with the Croatoan people, movement to Chesapeake Bay (the colony's original intended destination), and massacre — possibly by Powhatan Confederacy forces (William Strachey, 1612, claimed Wahunsenacawh's priests advised him to attack the colonists). Archaeologist Mark Horton has found European artifacts including part of a sword and gun at a Native American site on Hatteras Island. Tree ring analysis confirmed a severe drought from 1587–1589, corroborating documented food shortage difficulties.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| The Lost Colony | English / United States | Common name for the 1587 English colony on Roanoke Island that disappeared by 1590 |
 
-### Primary Name
-- **Roanoke Colony** — Named after Roanoke Island, from Algonquian "rawrenock" (shell beads/money)
+## Etymology
 
-### Alternative Names
-
-| Name | Context | Meaning |
-|------|---------|---------|
-| The Lost Colony | Popular designation | Term popularized in later historical narratives |
-| Roanoke Island Colony | Geographic | Location-based identifier |
-| Cittie of Raleigh | Original | Planned name for the settlement |
+- **Origin**: Roanoke Island is named after the Roanoke people; the name is of Algonquian origin. 'CROATOAN' carved at the site referred to Croatoan Island (now Hatteras Island) and the Croatoan people.
+- **Meaning**: Roanoke: Algonquian origin; Croatoan: the name of the island (now Hatteras Island) and its Indigenous people, the Croatoan, who were allied with the English colonists
+- **First use**: 1584 (English colonial use of 'Roanoke'); 1587–1590 (colony period)
 
 ---
+## Related Phenomena
 
-## Classification
-
-### Taxonomy
-```
-Category: HISTORICAL_MYSTERY
-├── Type: Disappearance
-├── Subtype: Colonial Settlement
-└── Resolution: Probable Integration
-```
-
-### Related Historical Events
-
-| Event | Relationship | Description |
-|-------|--------------|-------------|
-| Jamestown Colony (1607) | Related | First permanent English settlement, 17 years later |
-| Croatoan Tribe | Probable destination | Native Americans who likely integrated with colonists |
-| [Dare Stones](/dare-stones) | Disputed evidence | Controversial artifacts (mostly fraudulent) |
+- [Oak Island Mystery](../oak-island/) — _similar_: Another unresolved North American colonial-era mystery involving possible buried artifacts
 
 ---
+## Physical Description
 
+- **Morphology**: A settlement, not a creature. The mystery concerns the disappearance of approximately 115–121 people from a fortified site in 1587–1590.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| CROATOAN carving | The word CROATOAN carved into a palisade post at the abandoned settlement; CRO carved into a nearby tree | always |
+| Fortified but empty settlement | When White returned, the settlement was 'fortified' but completely abandoned, with no signs of a violent struggle | always |
+| No bodies or graves | No human remains attributable to the colonists were found at the settlement site | always |
+
+## Behavior
+
+- **Activity**: unknown
+- **Disposition**: unknown
+- **Social structure**: unknown
+- **Habitat**: Roanoke Island, Dare County, North Carolina
+
+---
+## Distribution
+
+Roanoke Island, present-day Dare County, North Carolina, United States. Archaeological investigation has extended to Hatteras Island (Croatoan Island) and a site 50 miles inland ('Site X' in Bertie County).
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Roanoke Island | North Carolina, United States |  | 1584–1590 |
+| Hatteras Island (Croatoan Island) | North Carolina, United States |  | 1587–1590 (hypothesized colonist presence) |
+
+---
 ## Historical Timeline
 
-### Complete Chronology
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| **1585** | First Roanoke attempt | Ralph Lane colony established, abandoned in 1586 |
-| **July 22, 1587** | Colony established | John White leads 115-117 colonists to Roanoke Island |
-| **August 18, 1587** | Virginia Dare born | First English child born in the Americas |
-| **August 27, 1587** | White departs | Governor returns to England for supplies |
-| **1588-1590** | Return delayed | Anglo-Spanish War (Spanish Armada) prevents relief voyage |
-| **August 18, 1590** | Colony found deserted | White discovers empty settlement, "CROATOAN" carved on post |
-| **1607-1610** | Jamestown reports | Early Jamestown colonists hear Native accounts of English survivors |
-| **1990s-present** | Archaeological discoveries | Evidence of integration found at multiple sites |
+|---|---|---|
+| 1584-04-27 | The Amadas-Barlowe expedition departs England; explores coastal North Carolina and returns with Manteo and Wanchese (Roanoke and Croatoan men) | First English reconnaissance of the region that would host the colony |
+| 1585-04-09 | Ralph Lane's first colony fleet departs Plymouth; approximately 108 colonists arrive at Roanoke Island | First Roanoke colony; abandoned 1586 after food shortages and conflict with Pemisapan (Wingina) |
+| 1586-06-01 | Governor Ralph Lane kills Pemisapan (formerly Wingina); first colony evacuated by Sir Francis Drake's fleet shortly after | End of the first colony; leaves English relations with local Algonquian peoples severely damaged |
+| 1587-05-08 | John White's second colony fleet departs England; approximately 112–121 colonists including women and children | The 'Lost Colony' proper begins; first English settlement attempt to include families |
+| 1587-07-22 | Fleet anchors off Croatoan Island; colonists arrive at Roanoke Island | Arrival of the second colony |
+| 1587-08-18 | Virginia Dare born to Ananias and Eleanor White Dare — the first English child born in the Americas | Virginia Dare becomes an enduring symbol of American colonial history |
+| 1587-08-27 | Governor John White departs for England to secure additional supplies at the colonists' insistence | White's departure marks the last confirmed European contact with the colonists |
+| 1588-04-22 | White's attempted resupply mission departs; attacked by French pirates; forced to return to England | First failed resupply; the Spanish Armada crisis then delays White for three years |
+| 1590-08-17 | John White returns to Roanoke Island; finds settlement 'fortified but abandoned' with CROATOAN carved into a post and CRO carved into a tree; no colonists found | The discovery that gives rise to 'The Lost Colony' mystery; the primary documented evidence of the disappearance |
+| 1590-10-24 | White's ship returns to England; White never returns to America | End of English attempts to locate the colony in this period |
+| 1612-01-01 | William Strachey's account claims Wahunsenacawh's priests advised him to massacre the colonists; 'seven English — four men, two boys, and one woman — survived and fled up the Chowan River' | Important secondary source for the massacre theory; written 22 years after the discovery |
+| 1998-01-01 | Tree ring analysis confirms severe drought in the Tidewater region from 1587–1589, consistent with documented food shortage difficulties during the colony period | Scientific corroboration of a key factor in the colony's probable hardship |
+| 2011-01-01 | Researchers discover a hidden fort symbol on John White's map covered by a paper patch; excavations at 'Site X' in Bertie County yield Tudor-period pottery and weapons fragments | First significant archaeological evidence for possible inland colony presence |
+| 2025-01-01 | Hammerscale deposits (iron-forging byproducts) on Hatteras Island are preliminarily dated to the late 16th century, suggesting European metalworking presence at a Croatoan site | Most recent archaeological evidence supporting the Croatoan integration theory |
+
+## Evidence
+
+### Physical
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| CROATOAN carving | 1590-08-17 | The word CROATOAN carved into a palisade post at the abandoned settlement; CRO carved into a nearby tree. Discovered by John White on August 17–18, 1590. | verified |
+| European artifacts at Hatteras Island Native American site | 2017-01-01 | Archaeologist Mark Horton and the First Colony Foundation found European artifacts at a Native American site on Hatteras Island, including part of a sword and part of a gun. 2025 fieldwork identified hammerscale deposits (iron-forging byproducts) at the same location, preliminarily dated to the late 16th century. | disputed |
+| Site X (Bertie County) Tudor-period artifacts | 2011-01-01 | Excavations at 'Site X' in Bertie County, North Carolina — identified from a hidden fort symbol on a patched version of John White's 1585 map — yielded Tudor-period pottery and weapons fragments. | disputed |
+### Trace
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| 1587–1589 Tidewater drought (tree ring evidence) | 1998-01-01 | Tree ring analysis published in 1998 confirmed that the Tidewater region experienced one of the most severe multi-year droughts on record during 1587–1589, corresponding exactly to the colony period. | verified |
 
 ---
-
-## The Colonists
-
-### Demographics
-
-| Category | Count | Details |
-|----------|-------|---------|
-| **Total** | 117 | Most comprehensive count |
-| **Men** | 91 | Including craftsmen, farmers, soldiers |
-| **Women** | 17 | Including Eleanor Dare |
-| **Children** | 9 | Including newborn Virginia Dare |
-
-### Notable Individuals
-
-**John White** — Governor and artist
-- Leader of the colony
-- Talented artist who documented Native American life
-- Grandfather of Virginia Dare
-- His detailed maps and journals are primary sources
-
-**Eleanor Dare** — Colonist
-- John White's daughter
-- Mother of Virginia Dare
-- Subject of controversial "Dare Stones" (mostly fraudulent)
-
-**Virginia Dare** — First English child born in Americas
-- Born August 18, 1587 (White's granddaughter)
-- Symbolic figure in American history
-- Fate unknown but likely survived to adulthood with Croatoan
-
-**Ananias Dare** — Colonist
-- Eleanor's husband, Virginia's father
-- Bricklayer and tiler by trade
-
----
-
-## The Mystery: What Happened?
-
-### The Discovery (August 18, 1590)
-
-When Governor White returned after three years, he found:
-
-✓ **Settlement abandoned** — Buildings dismantled in orderly fashion  
-✓ **"CROATOAN" carved on palisade post** — Clear, deliberate carving  
-✓ **"CRO" carved on tree** — Partial spelling consistent with Croatoan  
-✓ **No Maltese cross** — Pre-arranged distress signal NOT present  
-✓ **No signs of struggle** — No bodies, weapons, or evidence of violence  
-✓ **Possessions gone** — Colonists took their belongings  
-
-### The Crucial Clue: CROATOAN
-
-**What it means**: Croatoan was an island (modern-day Hatteras Island) approximately 50 miles south of Roanoke, home to the friendly Croatoan Indians.
-
-**Pre-arranged signal**: Before leaving, White had instructed colonists to carve their destination if they relocated. They were to add a Maltese cross if leaving under distress.
-
-**No cross present** = **Voluntary, planned relocation**
-
-White attempted to sail to Croatoan Island but was forced back to England by storms. He never returned to search for his family and the colonists.
-
----
-
-## Modern Understanding: What Really Happened
-
-### The Probable Explanation ⭐
-
-**Scientific Consensus** (supported by archaeology, history, genetics):
-
-The colonists **relocated to Croatoan Island and integrated with the Croatoan (Hatteras) Indians** through intermarriage and cultural exchange. Some colonists may have also dispersed to other friendly Native American communities inland.
-
-### Why This Makes Sense
-
-1. **The CROATOAN Carving** — Direct evidence of planned destination
-2. **No Distress Signal** — They left voluntarily
-3. **Historical Precedent** — Integration was common survival strategy
-4. **Resource Constraints** — Roanoke Island couldn't support 117 people long-term
-5. **Friendly Relations** — Croatoan chief Manteo was friendly, baptized Christian
-6. **Storm Vulnerability** — Roanoke Island exposed to hurricanes
-7. **Jamestown Reports** — 1607-1610 colonists heard Native accounts of English survivors
-
-### Archaeological Evidence
-
-#### **Hatteras Island (Former Croatoan Island)** 🔍
-- **Location**: Cape Creek archaeological site
-- **Findings**: 
-  - 16th-century English artifacts mixed with Native American materials
-  - Ring possibly from English colonist
-  - English-style construction techniques
-  - Artifacts match timeframe and items colonists would have possessed
-- **Significance**: Strong evidence colonists lived among Croatoan
-- **Researchers**: Dr. David Phelps (ECU), Mark Horton, Croatoan Archaeological Society
-
-#### **Site X (Interior North Carolina)** 🔍
-- **Location**: Near Salmon Creek, 50 miles inland
-- **Discovery**: 2012, via hidden symbol on John White's map
-- **Findings**:
-  - 16th-century English artifacts
-  - Evidence of English-Native interaction
-  - Suggests multi-site dispersal
-- **Significance**: Some colonists moved inland to other tribes
-- **Researchers**: First Colony Foundation, Nicholas Luccketti
-
-#### **Beechland Site (Bertie County)** 🔍
-- **Findings**: Mixed English-Native artifacts from 16th century
-- **Significance**: Additional evidence of dispersal
-
-### DNA and Genetic Evidence
-
-**Lumbee and Hatteras Research**:
-- Some genetic studies show European markers appearing in Native populations during timeframe consistent with colonist integration
-- Lumbee and Hatteras oral traditions describe English ancestors
-- Genetic evidence is **suggestive but not conclusive** due to later European contact
-
-### Historical Documentary Evidence
-
-1. **John White's Account (1590)** — Primary source describing CROATOAN carving
-2. **Jamestown Colony Reports (1607-1610)** — Settlers heard from Natives about English people living in tribes
-3. **Native American Oral Traditions** — Lumbee and Hatteras traditions describe integration with English
-4. **Chief Powhatan's Statements** — Mentioned knowledge of colonists, though accounts are ambiguous
-
----
-
 ## Theories & Explanations
 
-### ✅ PROBABLE (Strong Evidence)
+### Scientific
 
-#### 1. Integration with Croatoan Tribe ⭐⭐⭐⭐⭐
-**Evidence Level**: Very Strong
+**Integration with Croatoan people (Hatteras Island)** _(Mark Horton (archaeologist), First Colony Foundation)_
 
-**Theory**: Colonists relocated to Croatoan Island and integrated through intermarriage.
+The colonists relocated to Croatoan Island (now Hatteras Island), the home of their closest Native American allies under Manteo, and were integrated into or adopted by the Croatoan community. European artifacts and iron-forging evidence at Hatteras Island support this theory.
 
-**Supporting Evidence**:
-- CROATOAN carving indicates destination
-- Archaeological finds at Hatteras Island
-- 16th-century English artifacts in Native context
-- Oral traditions from Hatteras descendants
-- Jamestown-era reports of English with Natives
-- Genetic markers in Native populations
-- Historical precedent for integration
+**Chesapeake Bay relocation and Powhatan massacre** _(David Beers Quinn (historian), William Strachey (primary source))_
 
-**Consensus**: This has the strongest support from multiple disciplines
+The colonists moved toward their original intended destination (Chesapeake Bay), were taken in by local tribes, and were later massacred by Wahunsenacawh (Chief Powhatan) on the advice of his priests, with a few survivors fleeing up the Chowan River.
 
-#### 2. Multi-Site Dispersal ⭐⭐⭐⭐
-**Evidence Level**: Moderate to Strong
+**Inland relocation (Site X)** _(First Colony Foundation, British Museum researchers)_
 
-**Theory**: Colonists split into groups—some to Croatoan, others to inland tribes.
+The colonists or some portion of them moved inland to a site approximately 50 miles from Roanoke Island, suggested by the hidden fort symbol on John White's patched map and corroborated by Tudor-period artifacts found at Site X in Bertie County.
 
-**Supporting Evidence**:
-- Site X inland findings
-- Multiple archaeological sites with English artifacts
-- Practical survival strategy
-- Native reports from various tribal areas
+### Skeptical
 
-**Consensus**: Likely occurred alongside Croatoan migration
+**Ordinary colonial collapse with multiple dispersal paths** _(Mainstream American historians)_
+
+The colonists, facing a severe drought and diplomatic collapse with the surrounding Algonquian peoples, dispersed through multiple routes — some to Croatoan Island, some inland, possibly some attempting to return to England on the pinnace — with survivors assimilating into Native communities over time. No single dramatic explanation (massacre or survival) accounts for all the evidence.
+
+
+## Popular Culture
+
+**Literature**: A New Voyage to Carolina — John Lawson (1709): early account of possible Roanoke descendants among Hatteras Island people; The Lost Colony — Agona legend and Virginia Dare fiction (19th century)
+
+**Film / TV**: American Horror Story: Roanoke (Season 6, 2016) — horror anthology based on the Lost Colony; The Lost Colony — outdoor drama at Waterside Theatre, Manteo, NC (annual production since 1937)
+
+**Other**: The Lost Colony outdoor drama (Waterside Theatre, Manteo, NC) — one of the longest-running outdoor dramas in the United States, performed annually since 1937; The word CROATOAN has entered internet culture as a symbol of mysterious disappearance
 
 ---
+## Research
 
-### ❓ POSSIBLE (Weak Evidence)
+### Researchers
 
-#### 3. Spanish Attack
-**Evidence Level**: Very Weak
-
-**Theory**: Spanish forces destroyed the colony.
-
-**Against**: No Spanish records, no violence evidence, CROATOAN carving indicates voluntary departure
-
-**Likelihood**: Very low — largely discredited
-
-#### 4. Disease Epidemic
-**Evidence Level**: Very Weak
-
-**Against**: No mass graves, orderly abandonment, CROATOAN carving
-
-**Likelihood**: Very low
-
----
-
-### ❌ DISCREDITED (No Evidence / Fraudulent)
-
-#### 5. Supernatural Disappearance
-**Evidence**: None
-
-**Why discredited**: Pure speculation; contradicted by CROATOAN carving and archaeological evidence of integration
-
-**Status**: Perpetuated by sensationalized media only
-
-#### 6. Dare Stones Narrative
-**Evidence**: Fraudulent
-
-**Why discredited**: 48 stones allegedly carved by Eleanor Dare appeared 1937-1941. First stone possibly genuine; remaining 47 confirmed as elaborate hoax with anachronistic language and suspicious provenance.
-
-**Status**: Scholarly consensus = forgery
-
-#### 7. Total Massacre by Powhatan
-**Evidence**: Very weak, ambiguous second-hand accounts
-
-**Why discredited**: No archaeological evidence, contradicts CROATOAN evidence
-
-**Status**: Unlikely; may refer to different or partial events
-
----
-
-## Native American Perspective
-
-### A Different Story
-
-⚠️ **Important Context**: The "Lost Colony" narrative often centers English colonists while erasing Native American agency.
-
-**From Croatoan/Hatteras Perspective**:
-- The colonists weren't "lost" — they were **found and helped** by the Croatoan people
-- Integration represents **survival, adaptation, and cooperation**, not mystery
-- Some modern Hatteras and Lumbee people view the colonists as **integrated ancestors**
-- This is a story of **Native American compassion and aid**
-
-### Oral Traditions
-
-- **Hatteras descendants** maintain traditions of English ancestors
-- **Lumbee people** have oral histories of colonist integration
-- These traditions were often **dismissed by historians** but are now being reconsidered
-
-### Cultural Sensitivity
-
-> "The mystery is not what happened to the colonists—the mystery is why historians took so long to listen to Native American accounts of what happened."
-
-Researchers should acknowledge:
-- Native Americans saved the colonists
-- Integration was **voluntary cooperation**, not conquest
-- Indigenous knowledge has been systematically undervalued
-- The "Lost Colony" was **found by the people who took them in**
-
----
-
-## Cultural Impact & Legacy
-
-### Historical Significance
-
-- **First sustained English colonization attempt** in the Americas
-- **Symbolic of colonial ambitions** and challenges facing European settlers
-- **Virginia Dare became legendary figure** in American mythology
-- **Led to improved understanding** of colonial-Native interactions when studied scientifically
-
-### Popular Culture
-
-**Literature**:
-- "The Lost Colony" outdoor drama by Paul Green (1937) — still performed annually
-- Numerous historical novels and romanticized accounts
-- Academic works by Scott Dawson, Lee Miller, David Stick
-
-**Film/TV**:
-- "American Horror Story: Roanoke" (2016) — heavily fictionalized horror
-- Multiple documentaries (PBS, History Channel, National Geographic)
-- Educational programs
-
-**Tourism**:
-- The Lost Colony outdoor drama (Manteo, NC) — running since 1937
-- Fort Raleigh National Historic Site
-- Significant tourism economy in Outer Banks
-
-### Common Misconceptions
-
-❌ **"They vanished mysteriously"** — They left clear indication: CROATOAN  
-❌ **"No one knows what happened"** — Archaeological evidence provides probable answer  
-❌ **"Supernatural forces"** — No evidence; contradicted by science  
-❌ **"All died tragically"** — Evidence suggests most survived through integration  
-❌ **"Unsolvable mystery"** — Modern research provides likely solution  
-
----
-
-## Research & Investigation
-
-### Leading Researchers
-
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| **Scott Dawson** | Croatoan Archaeological Society | Hatteras research, integration theory advocacy |
-| **Dr. David Phelps** ✝ | East Carolina University | Cape Creek excavations (1980s-2010) |
-| **Dr. Nicholas Luccketti** | First Colony Foundation | Site X discovery and excavation |
-| **Dr. Mark Horton** | University of Bristol | Archaeological research supporting integration |
-| **Lee Miller** | Independent Historian | Historical connections to Jamestown reports |
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| John White | Governor of the 1587 Roanoke Colony | Primary contemporary source; journals and letters document the colony's establishment and the 1590 discovery of its abandonment | 1587–1593 |
+| David Beers Quinn | University of Liverpool | The Roanoke Voyages (1955) and Set Fair for Roanoke (1985); established the Chesapeake Bay relocation and Powhatan massacre theory | 1950s–1985 |
+| Mark Horton | University of Bristol / Royal Holloway | Led archaeological excavations on Hatteras Island finding European artifacts at a Native American site | 2010s–present |
 
 ### Organizations
 
-- **[First Colony Foundation](https://www.firstcolonyfoundation.org)** — Multi-site archaeological research
-- **Croatoan Archaeological Society** — Hatteras Island excavations
-- **[Fort Raleigh NHS](https://www.nps.gov/fora)** — Site preservation and education
+- [First Colony Foundation](https://www.firstcolonyfoundation.org) — Archaeological investigation of Roanoke Colony sites including Site X and Hatteras Island
 
-### Ongoing Research
-
-- Continued excavations at Site X and Hatteras Island
-- DNA analysis of Lumbee and Hatteras populations
-- Ground-penetrating radar surveys
-- Analysis of John White's maps and artifacts
-- Environmental and climate studies of 16th-century conditions
+Active archaeological investigation continues at Hatteras Island and Site X (Bertie County). DNA analysis efforts (since 2005) seek living descendants of colonists. The 2025 hammerscale findings on Hatteras Island are the most recent significant development pending full analysis.
 
 ---
+## Sources
 
-## Why the Mystery Persists
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Despite strong evidence for integration theory, the "mystery" remains popular because:
 
-1. **Romanticization** — Mysterious disappearances are more captivating than survival stories
-2. **Incomplete record** — Gaps in historical documentation allow speculation
-3. **Economic interests** — Tourism benefits from mystery narrative
-4. **Cultural mythology** — Virginia Dare and "Lost Colony" are part of American legend
-5. **Media sensationalism** — Paranormal theories attract attention
-6. **Ongoing discoveries** — Archaeological research keeps story in news
+## How to Report a Sighting
 
-### The Key Insight
-
-> **The "Lost Colony" is a misnomer. The colonists were not lost—they were found by the Croatoan people who helped them survive. This is not a supernatural mystery but a human story of cooperation, adaptation, and cultural integration.**
-
-Modern science is solving a 400-year-old "mystery" by doing what should have been done from the beginning: **listening to Native American accounts and following the evidence.**
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Visiting the Sites
-
-### Fort Raleigh National Historic Site
-- **Location**: Manteo, North Carolina (Roanoke Island)
-- **Features**: Reconstructed earthen fort, visitor center, museum
-- **Website**: https://www.nps.gov/fora
-
-### The Lost Colony Outdoor Drama
-- **Location**: Waterside Theatre, Manteo, NC
-- **Running**: Since 1937 (oldest outdoor drama in USA)
-- **Season**: Summer months
-- **Note**: Dramatization based on older theories; does not reflect current archaeological understanding
-
-### Archaeological Sites
-- Most active excavation sites are not open to public
-- First Colony Foundation occasionally offers tours and lectures
-
----
-
-## How to Report Information
-
-If you have historical documents, family records, or information relevant to the Lost Colony:
-
-1. **First Colony Foundation**: [Contact page](https://www.firstcolonyfoundation.org/contact)
-2. **Fort Raleigh National Historic Site**: [NPS Contact](https://www.nps.gov/fora)
-3. **This Repository**: [Submit via GitHub Issue](../../issues/new?template=historical_information.yml)
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Example API usage
-const wyrd = new WyrdnessAPI();
-const roanoke = await wyrd.getPhenomenon('roanoke-colony');
-const evidence = roanoke.evidence.archaeological;
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/roanoke-colony/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography with 50+ sources.
-
-### Essential Reading
-
-**Archaeological Evidence**:
-- Dawson, S. (2020). *The Lost Colony and Hatteras Island*
-- First Colony Foundation research reports
-
-**Historical Analysis**:
-- Miller, L. (2001). *Roanoke: Solving the Mystery of the Lost Colony*
-- Kupperman, K.O. (1984). *Roanoke: The Abandoned Colony*
-
-**Primary Sources**:
-- White, J. (1590). Journal entries and reports
-- Quinn, D.B. (1955). *The Roanoke Voyages, 1584-1590* (collected documents)
-
----
-
-## Conclusion: A Mystery Solved?
-
-The Roanoke Colony represents a genuine historical mystery **for which we now have a probable solution**. While absolute certainty about 16th-century events is impossible, the weight of evidence strongly supports:
-
-✅ Colonists relocated to Croatoan Island (CROATOAN carving)  
-✅ They integrated with Croatoan/Hatteras Indians (archaeological evidence)  
-✅ Some dispersed to other friendly tribes (Site X and other findings)  
-✅ They survived and had descendants (genetic and oral tradition evidence)  
-✅ Integration was voluntary cooperation (no distress signal)  
-
-**This is not a paranormal event or unsolvable mystery—it's a story of human survival, Native American compassion, and cultural adaptation.**
-
-The real mystery is why it took historians over 400 years to seriously investigate what the Croatoan people and their descendants knew all along.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release with comprehensive historical and archaeological documentation |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Historical Mystery Archive*
-
-[Report Information](../../issues/new) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
----
-
-**Remember**: The colonists weren't lost—they were found by the people who helped them survive.
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

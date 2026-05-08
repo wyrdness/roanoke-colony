@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-08",
     "repository": "https://github.com/wyrdness/roanoke-colony",
     "maintainers": [
       {
@@ -16,72 +16,141 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "roanoke-colony",
-    "name": "Roanoke Colony (The Lost Colony)",
-    "aliases": [],
-    "category": "|_COUNT_|_DETAILS_|",
-    "subcategory": "Colonial Settlement",
-    "tags": [
-      "folklore",
-      "mythology"
+    "name": "Roanoke Colony",
+    "aliases": [
+      { "name": "The Lost Colony", "language": "English", "region": "United States", "meaning": "Common name for the 1587 English colony on Roanoke Island that disappeared by 1590" }
     ],
-    "status": "documented",
+    "category": "LOCATION",
+    "subcategory": "Historical mystery / lost settlement",
+    "tags": [
+      "historical-mystery",
+      "colonial",
+      "north-carolina",
+      "united-states",
+      "1587",
+      "disappearance",
+      "croatoan",
+      "archaeology",
+      "english-colonization"
+    ],
+    "status": "historical",
     "description": {
-      "summary": "The Roanoke Colony, famously known as **\\\"The Lost Colony,\\\"** represents one of America's oldest and most intriguing historical mysteries.",
-      "full": "The Roanoke Colony, famously known as **\\\"The Lost Colony,\\\"** represents one of America's oldest and most intriguing historical mysteries. In 1587, 115-117 English colonists established a settlement on Roanoke Island in what is now North Carolina. When Governor John White returned from England in 1590 after a three-year delay, he found the settlement completely abandoned with no signs of struggle—only the word **\\\"CROATOAN\\\"** carved into a wooden post."
+      "summary": "The Roanoke Colony, known as 'The Lost Colony,' was an English settlement of approximately 115–121 colonists established on Roanoke Island (present-day North Carolina) in 1587. When Governor John White returned in August 1590, the settlement was found completely abandoned, with only the word 'CROATOAN' carved into a post.",
+      "full": "The Roanoke Colony was the second English attempt to establish a permanent settlement in North America, established in 1587 on Roanoke Island in what is now Dare County, North Carolina. Governor John White led approximately 112–121 colonists, including women and children. His granddaughter Virginia Dare — born August 18, 1587 — was the first English child born in the Americas. White returned to England weeks after the colony's establishment to secure additional supplies, but was delayed for three years by the Anglo-Spanish War and the Spanish Armada crisis. When White finally returned in August 1590, he found the settlement fortified but completely abandoned, with no signs of struggle. The word 'CROATOAN' was carved into a post, and 'CRO' was inscribed into a nearby tree — consistent with a pre-arranged signal indicating the colonists had relocated to Croatoan Island (present-day Hatteras Island). White was unable to investigate further due to deteriorating weather and his ships' condition. The fate of the colonists has never been definitively established. Leading theories include voluntary relocation to Croatoan Island and assimilation with the Croatoan people, movement to Chesapeake Bay (the colony's original intended destination), and massacre — possibly by Powhatan Confederacy forces (William Strachey, 1612, claimed Wahunsenacawh's priests advised him to attack the colonists). Archaeologist Mark Horton has found European artifacts including part of a sword and gun at a Native American site on Hatteras Island. Tree ring analysis confirmed a severe drought from 1587–1589, corroborating documented food shortage difficulties."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Roanoke Island is named after the Roanoke people; the name is of Algonquian origin. 'CROATOAN' carved at the site referred to Croatoan Island (now Hatteras Island) and the Croatoan people.",
+      "meaning": "Roanoke: Algonquian origin; Croatoan: the name of the island (now Hatteras Island) and its Indigenous people, the Croatoan, who were allied with the English colonists",
+      "first_use": "1584 (English colonial use of 'Roanoke'); 1587–1590 (colony period)"
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "|_COUNT_|_DETAILS_|",
-      "type": "Colonial Settlement",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "LOCATION",
+      "type": "Historical mystery",
+      "subtype": "Lost settlement / colonial disappearance",
+      "variant": "North American"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "oak-island", "name": "Oak Island Mystery", "relationship": "similar", "description": "Another unresolved North American colonial-era mystery involving possible buried artifacts" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "CROATOAN carving", "description": "The word CROATOAN carved into a palisade post at the abandoned settlement; CRO carved into a nearby tree", "frequency": "always" },
+        { "feature": "Fortified but empty settlement", "description": "When White returned, the settlement was 'fortified' but completely abandoned, with no signs of a violent struggle", "frequency": "always" },
+        { "feature": "No bodies or graves", "description": "No human remains attributable to the colonists were found at the settlement site", "frequency": "always" }
+      ],
+      "morphology": "A settlement, not a creature. The mystery concerns the disappearance of approximately 115–121 people from a fortified site in 1587–1590."
     },
     "abilities": [],
     "behavior": {
       "activity_period": "unknown",
       "disposition": "unknown",
-      "habitat_preference": []
+      "social_structure": "unknown",
+      "habitat_preference": ["Roanoke Island, Dare County, North Carolina"],
+      "patterns": []
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Roanoke Island, present-day Dare County, North Carolina, United States. Archaeological investigation has extended to Hatteras Island (Croatoan Island) and a site 50 miles inland ('Site X' in Bertie County).",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Roanoke Island, North Carolina", "Hatteras Island, North Carolina", "Dare County, North Carolina"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Roanoke Island",
+        "location": {
+          "description": "Roanoke Island, Dare County, North Carolina — site of the 1587 settlement",
+          "country": "United States",
+          "region": "North Carolina",
+          "coordinates": { "latitude": 35.9096, "longitude": -75.6690 }
+        },
+        "sighting_count": 0,
+        "peak_period": "1584–1590",
+        "notes": "Original site of both the 1585 Lane colony and the 1587 White colony; northern shoreline erosion (approximately 928 feet, 1851–1970) may have submerged original settlement remains"
+      },
+      {
+        "name": "Hatteras Island (Croatoan Island)",
+        "location": {
+          "description": "Hatteras Island, North Carolina — the Croatoan of the carving; European artifacts found here",
+          "country": "United States",
+          "region": "North Carolina",
+          "coordinates": { "latitude": 35.2269, "longitude": -75.6152 }
+        },
+        "sighting_count": 0,
+        "peak_period": "1587–1590 (hypothesized colonist presence)",
+        "notes": "Archaeologist Mark Horton found European artifacts (part of a sword, part of a gun) at a Native American site on Hatteras Island; 2025 hammerscale deposits (iron-forging) preliminarily dated to the late 16th century"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "1587-07-22",
+        "circa": false,
+        "source": "John White's journal of the 1587 voyage, preserved in Richard Hakluyt's Principall Navigations (1600)"
+      },
+      "peak_activity_periods": [
+        { "period": "1584–1590", "description": "The actual colonial period: expeditions, establishment, and disappearance" },
+        { "period": "2011–present", "description": "Modern archaeological investigation: Site X discovery (2011), Hatteras Island excavations, DNA research" }
+      ],
+      "seasonal_patterns": "No seasonal pattern; the mystery is historical."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The Roanoke disappearance sits at the intersection of English colonial ambition, Indigenous North American politics, the Anglo-Spanish War, and the ecological conditions of the Outer Banks. It is America's oldest English-language historical mystery.",
+      "earliest_accounts": "John White's journals of the 1587 voyage and the 1590 return, preserved in Richard Hakluyt's Principall Navigations (1600), are the primary contemporary sources.",
+      "folklore_connections": "The Lost Colony has generated extensive American folklore and popular legend. The CROATOAN carving is one of the most recognizable symbols in American historical mythology."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1584-04-27", "event": "The Amadas-Barlowe expedition departs England; explores coastal North Carolina and returns with Manteo and Wanchese (Roanoke and Croatoan men)", "significance": "First English reconnaissance of the region that would host the colony", "source": "Hakluyt, R. (1600), Principall Navigations" },
+      { "date": "1585-04-09", "event": "Ralph Lane's first colony fleet departs Plymouth; approximately 108 colonists arrive at Roanoke Island", "significance": "First Roanoke colony; abandoned 1586 after food shortages and conflict with Pemisapan (Wingina)", "source": "Hakluyt, R. (1600), Principall Navigations" },
+      { "date": "1586-06-01", "event": "Governor Ralph Lane kills Pemisapan (formerly Wingina); first colony evacuated by Sir Francis Drake's fleet shortly after", "significance": "End of the first colony; leaves English relations with local Algonquian peoples severely damaged", "source": "Lane, R., account in Hakluyt (1600)" },
+      { "date": "1587-05-08", "event": "John White's second colony fleet departs England; approximately 112–121 colonists including women and children", "significance": "The 'Lost Colony' proper begins; first English settlement attempt to include families", "source": "White, J., journal in Hakluyt (1600)" },
+      { "date": "1587-07-22", "event": "Fleet anchors off Croatoan Island; colonists arrive at Roanoke Island", "significance": "Arrival of the second colony", "source": "White, J., journal" },
+      { "date": "1587-08-18", "event": "Virginia Dare born to Ananias and Eleanor White Dare — the first English child born in the Americas", "significance": "Virginia Dare becomes an enduring symbol of American colonial history", "source": "White, J., journal" },
+      { "date": "1587-08-27", "event": "Governor John White departs for England to secure additional supplies at the colonists' insistence", "significance": "White's departure marks the last confirmed European contact with the colonists", "source": "White, J., journal" },
+      { "date": "1588-04-22", "event": "White's attempted resupply mission departs; attacked by French pirates; forced to return to England", "significance": "First failed resupply; the Spanish Armada crisis then delays White for three years", "source": "White, J., correspondence" },
+      { "date": "1590-08-17", "event": "John White returns to Roanoke Island; finds settlement 'fortified but abandoned' with CROATOAN carved into a post and CRO carved into a tree; no colonists found", "significance": "The discovery that gives rise to 'The Lost Colony' mystery; the primary documented evidence of the disappearance", "source": "White, J., letter to Richard Hakluyt (1593)" },
+      { "date": "1590-10-24", "event": "White's ship returns to England; White never returns to America", "significance": "End of English attempts to locate the colony in this period", "source": "White, J., correspondence" },
+      { "date": "1612-01-01", "event": "William Strachey's account claims Wahunsenacawh's priests advised him to massacre the colonists; 'seven English — four men, two boys, and one woman — survived and fled up the Chowan River'", "significance": "Important secondary source for the massacre theory; written 22 years after the discovery", "source": "Strachey, W. (1612), The Historie of Travell into Virginia Britania" },
+      { "date": "1998-01-01", "event": "Tree ring analysis confirms severe drought in the Tidewater region from 1587–1589, consistent with documented food shortage difficulties during the colony period", "significance": "Scientific corroboration of a key factor in the colony's probable hardship", "source": "Stahle, D. W. et al. (1998)" },
+      { "date": "2011-01-01", "event": "Researchers discover a hidden fort symbol on John White's map covered by a paper patch; excavations at 'Site X' in Bertie County yield Tudor-period pottery and weapons fragments", "significance": "First significant archaeological evidence for possible inland colony presence", "source": "First Colony Foundation / British Museum (2011)" },
+      { "date": "2025-01-01", "event": "Hammerscale deposits (iron-forging byproducts) on Hatteras Island are preliminarily dated to the late 16th century, suggesting European metalworking presence at a Croatoan site", "significance": "Most recent archaeological evidence supporting the Croatoan integration theory", "source": "Archaeological fieldwork on Hatteras Island (2025)" }
+    ],
+    "modern_era": "Active archaeological investigation continues at Hatteras Island, the Site X location in Bertie County, and Roanoke Island itself. The First Colony Foundation leads ongoing research. DNA analysis efforts (ongoing since 2005) have not produced conclusive identification of living colonist descendants. The 2025 hammerscale findings at Hatteras Island represent the most recent significant development."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +161,140 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
-    "physical": [],
+    "physical": [
+      {
+        "id": "roanoke-evidence-croatoan-carving",
+        "type": "inscription",
+        "name": "CROATOAN carving",
+        "date": "1590-08-17",
+        "description": "The word CROATOAN carved into a palisade post at the abandoned settlement; CRO carved into a nearby tree. Discovered by John White on August 17–18, 1590.",
+        "location": "Roanoke Island, Dare County, North Carolina",
+        "status": "verified",
+        "analysis": "White interpreted CROATOAN as indicating the colonists had relocated to Croatoan Island (now Hatteras Island), consistent with a pre-arranged signal system (White had instructed the colonists to carve a cross if they left under distress; no cross was carved). The carving is the most direct evidence about the colonists' intended destination.",
+        "source": "White, J., letter to Richard Hakluyt (1593)"
+      },
+      {
+        "id": "roanoke-evidence-hatteras-artifacts",
+        "type": "archaeological artifacts",
+        "name": "European artifacts at Hatteras Island Native American site",
+        "date": "2017-01-01",
+        "description": "Archaeologist Mark Horton and the First Colony Foundation found European artifacts at a Native American site on Hatteras Island, including part of a sword and part of a gun. 2025 fieldwork identified hammerscale deposits (iron-forging byproducts) at the same location, preliminarily dated to the late 16th century.",
+        "location": "Hatteras Island (Croatoan Island), North Carolina",
+        "status": "disputed",
+        "analysis": "The artifacts are consistent with English colonial presence at the site during the late 16th century but cannot be definitively linked to the Roanoke colonists. The hammerscale dating is preliminary.",
+        "source": "First Colony Foundation archaeological reports (2017–2025)"
+      },
+      {
+        "id": "roanoke-evidence-site-x",
+        "type": "archaeological artifacts",
+        "name": "Site X (Bertie County) Tudor-period artifacts",
+        "date": "2011-01-01",
+        "description": "Excavations at 'Site X' in Bertie County, North Carolina — identified from a hidden fort symbol on a patched version of John White's 1585 map — yielded Tudor-period pottery and weapons fragments.",
+        "location": "Bertie County, North Carolina (approximately 50 miles west of Roanoke Island)",
+        "status": "disputed",
+        "analysis": "Consistent with a possible inland colonial presence but not conclusively linked to the 1587 colonists. The discovery of the patch on White's map is itself significant.",
+        "source": "First Colony Foundation / British Museum map analysis (2011); subsequent excavations"
+      }
+    ],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [
+      {
+        "id": "roanoke-evidence-drought",
+        "type": "tree ring data",
+        "name": "1587–1589 Tidewater drought (tree ring evidence)",
+        "date": "1998-01-01",
+        "description": "Tree ring analysis published in 1998 confirmed that the Tidewater region experienced one of the most severe multi-year droughts on record during 1587–1589, corresponding exactly to the colony period.",
+        "status": "verified",
+        "analysis": "Corroborates the food shortage difficulties documented in contemporary accounts; explains the urgency of White's departure and the colony's vulnerability.",
+        "source": "Stahle, D. W. et al. (1998)"
+      }
+    ],
+    "documentary": []
   },
+
   "theories": {
     "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "scientific": [
+      {
+        "name": "Integration with Croatoan people (Hatteras Island)",
+        "description": "The colonists relocated to Croatoan Island (now Hatteras Island), the home of their closest Native American allies under Manteo, and were integrated into or adopted by the Croatoan community. European artifacts and iron-forging evidence at Hatteras Island support this theory.",
+        "proponents": ["Mark Horton (archaeologist)", "First Colony Foundation"],
+        "evidence_cited": ["CROATOAN carving at the site", "European artifacts found at Hatteras Island Native American site", "2025 hammerscale dating to late 16th century on Hatteras Island", "Pre-arranged signal system (CROATOAN = relocation destination)"]
+      },
+      {
+        "name": "Chesapeake Bay relocation and Powhatan massacre",
+        "description": "The colonists moved toward their original intended destination (Chesapeake Bay), were taken in by local tribes, and were later massacred by Wahunsenacawh (Chief Powhatan) on the advice of his priests, with a few survivors fleeing up the Chowan River.",
+        "proponents": ["David Beers Quinn (historian)", "William Strachey (primary source)"],
+        "evidence_cited": ["William Strachey's 1612 account claiming Powhatan admitted to killing the colonists", "Quinn's analysis of possible migration routes", "European items found during John Lawson's 1701–1709 travels among Hatteras Island people who claimed European ancestry"]
+      },
+      {
+        "name": "Inland relocation (Site X)",
+        "description": "The colonists or some portion of them moved inland to a site approximately 50 miles from Roanoke Island, suggested by the hidden fort symbol on John White's patched map and corroborated by Tudor-period artifacts found at Site X in Bertie County.",
+        "proponents": ["First Colony Foundation", "British Museum researchers"],
+        "evidence_cited": ["Hidden fort symbol on White's 1585 map revealed under a paper patch", "Tudor-period pottery and weapons fragments found at Site X"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Ordinary colonial collapse with multiple dispersal paths",
+        "description": "The colonists, facing a severe drought and diplomatic collapse with the surrounding Algonquian peoples, dispersed through multiple routes — some to Croatoan Island, some inland, possibly some attempting to return to England on the pinnace — with survivors assimilating into Native communities over time. No single dramatic explanation (massacre or survival) accounts for all the evidence.",
+        "proponents": ["Mainstream American historians"],
+        "evidence_cited": ["Severity of the 1587–1589 drought", "Collapse of relations between the English and Algonquian peoples established by the Lane colony's actions", "Absence of a single concentrated archaeological site that would indicate the whole colony went to one place"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "The Lost Colony tradition in American historical mythology",
+        "CROATOAN as an enduring American cultural symbol of unexplained disappearance"
+      ],
+      "stories": [
+        "Virginia Dare legends — numerous 19th-century stories about Virginia Dare's fate, ranging from adoption by the Croatoan people to her becoming a white doe",
+        "John Lawson's 1709 encounter with Hatteras Island people who claimed gray eyes and European ancestry, described in A New Voyage to Carolina (1709)"
+      ],
+      "beliefs": "The Lost Colony has generated extensive American popular mythology, with Virginia Dare as a recurring figure in regional legend. The CROATOAN carving has entered American culture as a symbol of mysterious disappearance."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "A New Voyage to Carolina — John Lawson (1709): early account of possible Roanoke descendants among Hatteras Island people",
+        "The Lost Colony — Agona legend and Virginia Dare fiction (19th century)"
+      ],
+      "film_tv": [
+        "American Horror Story: Roanoke (Season 6, 2016) — horror anthology based on the Lost Colony",
+        "The Lost Colony — outdoor drama at Waterside Theatre, Manteo, NC (annual production since 1937)"
+      ],
       "games": [],
-      "other": []
+      "other": [
+        "The Lost Colony outdoor drama (Waterside Theatre, Manteo, NC) — one of the longest-running outdoor dramas in the United States, performed annually since 1937",
+        "The word CROATOAN has entered internet culture as a symbol of mysterious disappearance"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "John White", "affiliation": "Governor of the 1587 Roanoke Colony", "contribution": "Primary contemporary source; journals and letters document the colony's establishment and the 1590 discovery of its abandonment", "period": "1587–1593" },
+      { "name": "David Beers Quinn", "affiliation": "University of Liverpool", "contribution": "The Roanoke Voyages (1955) and Set Fair for Roanoke (1985); established the Chesapeake Bay relocation and Powhatan massacre theory", "period": "1950s–1985" },
+      { "name": "Mark Horton", "affiliation": "University of Bristol / Royal Holloway", "contribution": "Led archaeological excavations on Hatteras Island finding European artifacts at a Native American site", "period": "2010s–present" }
+    ],
+    "organizations": [
+      { "name": "First Colony Foundation", "url": "https://www.firstcolonyfoundation.org", "focus": "Archaeological investigation of Roanoke Colony sites including Site X and Hatteras Island" }
+    ],
+    "ongoing_studies": "Active archaeological investigation continues at Hatteras Island and Site X (Bertie County). DNA analysis efforts (since 2005) seek living descendants of colonists. The 2025 hammerscale findings on Hatteras Island are the most recent significant development pending full analysis."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "hakluyt-1600", "type": "archive", "title": "Principall Navigations, Voiages, Traffiques and Discoueries of the English Nation", "authors": ["Richard Hakluyt"], "publication": "George Bishop", "date": "1600", "notes": "Contains John White's journals and letters; primary source for the Roanoke Colony" },
+    { "id": "strachey-1612", "type": "archive", "title": "The Historie of Travell into Virginia Britania", "authors": ["William Strachey"], "date": "1612", "notes": "Contains account claiming Powhatan admitted to killing the Roanoke colonists; written 22 years after the discovery" },
+    { "id": "quinn-1955", "type": "book", "title": "The Roanoke Voyages, 1584–1590", "authors": ["David Beers Quinn"], "publication": "Hakluyt Society", "date": "1955" },
+    { "id": "quinn-1985", "type": "book", "title": "Set Fair for Roanoke: Voyages and Colonies 1584–1606", "authors": ["David Beers Quinn"], "publication": "University of North Carolina Press", "date": "1985" },
+    { "id": "stahle-1998", "type": "paper", "title": "The Lost Colony and Jamestown Droughts", "authors": ["David W. Stahle"], "publication": "Science", "date": "1998" },
+    { "id": "wikipedia-roanoke", "type": "website", "title": "Roanoke Colony", "url": "https://en.wikipedia.org/wiki/Roanoke_Colony", "accessed": "2026-05-08" }
+  ]
 }
